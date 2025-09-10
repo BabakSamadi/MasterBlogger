@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\presention\\areas\\administrator\\pages\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|solutionrelative:presention\\areas\\administrator\\pages\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\presention\\areas\\administrator\\pages\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|solutionrelative:presention\\areas\\administrator\\pages\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E929BE3B-8E64-4268-92B1-BAD5996C206F}|Application\\Application.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\application\\articlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E929BE3B-8E64-4268-92B1-BAD5996C206F}|Application\\Application.csproj|solutionrelative:application\\articlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E9853E-F2BE-49E4-809D-F27EDD88F085}|Domain\\Domain.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\domain\\articlecategoryagg\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E9853E-F2BE-49E4-809D-F27EDD88F085}|Domain\\Domain.csproj|solutionrelative:domain\\articlecategoryagg\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E474BAD-D330-43F0-870B-1739294EC23D}|Infrastracture\\Infrastracture.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\infrastracture\\repository\\articlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E474BAD-D330-43F0-870B-1739294EC23D}|Infrastracture\\Infrastracture.csproj|solutionrelative:infrastracture\\repository\\articlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C9CE2F-9CFF-4D43-8062-69E15603CE30}|Application.Contracts\\Application.Contracts.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\application.contracts\\iarticlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C9CE2F-9CFF-4D43-8062-69E15603CE30}|Application.Contracts\\Application.Contracts.csproj|solutionrelative:application.contracts\\iarticlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E9853E-F2BE-49E4-809D-F27EDD88F085}|Domain\\Domain.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\domain\\articlecategoryagg\\iarticlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E9853E-F2BE-49E4-809D-F27EDD88F085}|Domain\\Domain.csproj|solutionrelative:domain\\articlecategoryagg\\iarticlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\presention\\areas\\administrator\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|solutionrelative:presention\\areas\\administrator\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E9853E-F2BE-49E4-809D-F27EDD88F085}|Domain\\Domain.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\domain\\servicescheckvalidation\\articlecategoryvalidatorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E9853E-F2BE-49E4-809D-F27EDD88F085}|Domain\\Domain.csproj|solutionrelative:domain\\servicescheckvalidation\\articlecategoryvalidatorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\presention\\areas\\administrator\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|solutionrelative:presention\\areas\\administrator\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\presention\\areas\\administrator\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|solutionrelative:presention\\areas\\administrator\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778CFCB7-26ED-4867-B2F1-86EE20955705}|infrastracture Services.Config\\infrastracture Services.Config.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\infrastracture services.config\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778CFCB7-26ED-4867-B2F1-86EE20955705}|infrastracture Services.Config\\infrastracture Services.Config.csproj|solutionrelative:infrastracture services.config\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E9853E-F2BE-49E4-809D-F27EDD88F085}|Domain\\Domain.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\domain\\servicescheckvalidation\\iarticlecategoryvalidatorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E9853E-F2BE-49E4-809D-F27EDD88F085}|Domain\\Domain.csproj|solutionrelative:domain\\servicescheckvalidation\\iarticlecategoryvalidatorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticleCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Infrastracture\\Repository\\ArticleCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastracture\\Repository\\ArticleCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Infrastracture\\Repository\\ArticleCategoryRepository.cs",
+              "RelativeToolTip": "Infrastracture\\Repository\\ArticleCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:12:06.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\List.cshtml",
+              "RelativeDocumentMoniker": "Presention\\Areas\\Administrator\\Pages\\List.cshtml",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\List.cshtml",
+              "RelativeToolTip": "Presention\\Areas\\Administrator\\Pages\\List.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwDsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T19:31:52.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "Presention\\Areas\\Administrator\\Pages\\List.cshtml.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\List.cshtml.cs",
+              "RelativeToolTip": "Presention\\Areas\\Administrator\\Pages\\List.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:33:01.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleCategory.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "RelativeDocumentMoniker": "Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "RelativeToolTip": "Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:26:39.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleCategoryApplication.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Application\\ArticleCategoryApplication.cs",
+              "RelativeDocumentMoniker": "Application\\ArticleCategoryApplication.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Application\\ArticleCategoryApplication.cs",
+              "RelativeToolTip": "Application\\ArticleCategoryApplication.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwv0IAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:29:57.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArticleCategoryApplication.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Application.Contracts\\IArticleCategoryApplication.cs",
+              "RelativeDocumentMoniker": "Application.Contracts\\IArticleCategoryApplication.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Application.Contracts\\IArticleCategoryApplication.cs",
+              "RelativeToolTip": "Application.Contracts\\IArticleCategoryApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:28:43.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IArticleCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
+              "RelativeToolTip": "Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:10:45.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Presention\\Areas\\Administrator\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Presention\\Areas\\Administrator\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:40:32.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticleCategoryValidatorServices.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ServicesCheckValidation\\ArticleCategoryValidatorServices.cs",
+              "RelativeDocumentMoniker": "Domain\\ServicesCheckValidation\\ArticleCategoryValidatorServices.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ServicesCheckValidation\\ArticleCategoryValidatorServices.cs",
+              "RelativeToolTip": "Domain\\ServicesCheckValidation\\ArticleCategoryValidatorServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:36:04.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Presention\\Areas\\Administrator\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "Presention\\Areas\\Administrator\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:54:01.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presention\\Areas\\Administrator\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\Create.cshtml",
+              "RelativeToolTip": "Presention\\Areas\\Administrator\\Pages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T08:54:26.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bootstrapper.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\infrastracture Services.Config\\Bootstrapper.cs",
+              "RelativeDocumentMoniker": "infrastracture Services.Config\\Bootstrapper.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\infrastracture Services.Config\\Bootstrapper.cs",
+              "RelativeToolTip": "infrastracture Services.Config\\Bootstrapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:45:17.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IArticleCategoryValidatorServices.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ServicesCheckValidation\\IArticleCategoryValidatorServices.cs",
+              "RelativeDocumentMoniker": "Domain\\ServicesCheckValidation\\IArticleCategoryValidatorServices.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ServicesCheckValidation\\IArticleCategoryValidatorServices.cs",
+              "RelativeToolTip": "Domain\\ServicesCheckValidation\\IArticleCategoryValidatorServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:04:24.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

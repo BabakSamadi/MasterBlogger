@@ -1,0 +1,22 @@
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\bin\Debug\net6.0\infrastracture Services.Config.deps.json
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\bin\Debug\net6.0\infrastracture Services.Config.dll
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\bin\Debug\net6.0\infrastracture Services.Config.pdb
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\bin\Debug\net6.0\Application.Contracts.dll
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\bin\Debug\net6.0\Application.dll
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\bin\Debug\net6.0\Domain.dll
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\bin\Debug\net6.0\Infrastracture.dll
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\bin\Debug\net6.0\Application.Contracts.pdb
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\bin\Debug\net6.0\Application.pdb
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\bin\Debug\net6.0\Domain.pdb
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\bin\Debug\net6.0\Infrastracture.pdb
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\obj\Debug\net6.0\infrastracture Services.Config.csproj.AssemblyReference.cache
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\obj\Debug\net6.0\infrastracture Services.Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\obj\Debug\net6.0\infrastracture Services.Config.AssemblyInfoInputs.cache
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\obj\Debug\net6.0\infrastracture Services.Config.AssemblyInfo.cs
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\obj\Debug\net6.0\infrastracture Services.Config.csproj.CoreCompileInputs.cache
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\obj\Debug\net6.0\infrastracture Services.Config.sourcelink.json
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\obj\Debug\net6.0\infrastr.6FAF124B.Up2Date
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\obj\Debug\net6.0\infrastracture Services.Config.dll
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\obj\Debug\net6.0\refint\infrastracture Services.Config.dll
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\obj\Debug\net6.0\infrastracture Services.Config.pdb
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\infrastracture Services.Config\obj\Debug\net6.0\ref\infrastracture Services.Config.dll

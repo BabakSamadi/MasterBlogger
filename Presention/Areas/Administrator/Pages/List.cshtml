@@ -1,0 +1,60 @@
+﻿@page
+@model Presention.Areas.Administrator.Pages.ListModel
+@{
+}
+
+
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="float-left">Article Category List</h3>
+        <div class="float-right">
+            <a class="btn btn-success" asp-page="./Create" asp-area="Administrator">Add New</a>
+        </div>
+    </div>
+    <div class="card-body">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Title</th>
+                    <th>Status</th>
+                    <th>CreationDate</th>
+                    <th>Operations</th>
+                </tr>
+            </thead>
+            <tbody>
+			
+            @foreach (var articleCategory in Model.ArticleCategories)
+            {
+	            <tr>
+		            <td>@articleCategory.Id</td>
+		            <td>@articleCategory.Title</td>
+		            <td>@(articleCategory.IsDeleted ? "Active" : "Inactive")</td>
+		            <td>@articleCategory.CreationDate</td>
+		            <td>
+			            <a class="btn btn-warning" asp-page="./Edit" asp-route-id="@articleCategory.Id">Rename</a>
+		            </td>
+		            <td>
+			            @if (articleCategory.IsDeleted)
+			            {
+				            <form method="post" asp-page-handler="Remove">
+					            <button class="btn btn-danger">Remove</button>
+					            <input type="hidden" name="id" value="@articleCategory.Id" />
+				            </form>
+			            }
+			            else
+			            {
+				            <form method="post" asp-page-handler="Activate">
+					            <button class="btn btn-success">Activate</button>
+					            <input type="hidden" name="id" value="@articleCategory.Id" />
+				            </form>
+			            }
+		            </td>
+	            </tr>
+            }
+     
+            </tbody>
+        </table>
+    </div>
+</div> 
