@@ -5,7 +5,9 @@ using System.Security.Authentication.ExtendedProtection;
 using System.Text;
 using System.Threading.Tasks;
 using Application;
+using Application.Contracts.Article;
 using Application.Contracts.ArticleCategory;
+using Domain.ArticleAgg;
 using Domain.ArticleCategoryAgg;
 using Domain.ServicesCheckValidation;
 using Infrastracture;
@@ -24,7 +26,9 @@ namespace infrastracture_Services.Config
 
            services.AddTransient<IArticleCategoryApplication, ArticleCategoryApplication>();
            services.AddTransient<IArticleCategoryRepository, ArticleCategoryRepository>();
-           services.AddTransient<IArticleCategoryValidatorServices, ArticleCategoryValidatorServices>();
+           services.AddTransient<IArticleApplication, ArticleApplication>();
+           services.AddTransient<IArticleRepository, ArticleRepository>();
+            services.AddTransient<IArticleCategoryValidatorServices, ArticleCategoryValidatorServices>();
             services.AddDbContext<MasterBlogContext>(options => options.UseSqlServer(ConnectionString));
         }
     }

@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Domain/1.0.0": {
+        "dependencies": {
+          "Application.Contracts": "1.0.0"
+        },
         "runtime": {
           "Domain.dll": {}
+        }
+      },
+      "Application.Contracts/1.0.0": {
+        "runtime": {
+          "Application.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Application.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

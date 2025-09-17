@@ -15,7 +15,7 @@ namespace Domain.ArticleCategoryAgg
 
         public ICollection<Article> Articles { get;  private set; }
 
-        public ArticleCategory()
+        protected ArticleCategory()
         {
             // EF Core برای ساختن موجودیت‌ها از دیتابیس اینو استفاده می‌کنه
         }

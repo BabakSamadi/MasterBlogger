@@ -10,7 +10,7 @@ namespace Domain.ArticleCategoryAgg
     {
         List<ArticleCategory> GetAll();
 
-        ArticleCategory Get(long id);
+        ArticleCategory Get(int id);
         void Create(ArticleCategory entity);
 
         void save();

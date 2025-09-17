@@ -9,7 +9,7 @@ namespace Domain.ArticleAgg
 {
     public class Article
     {
-        public long Id { get; private set; }
+        public int Id { get; private set; }
 
         public string Title { get; private set; }
 
@@ -23,7 +23,7 @@ namespace Domain.ArticleAgg
 
         public DateTime CreationDate { get; private set; }
 
-        public long ArticleCategoryId { get; private set; }
+        public int ArticleCategoryId { get; private set; }
         public ArticleCategory articleCategory { get; private set; }
 
 
@@ -34,7 +34,7 @@ namespace Domain.ArticleAgg
         }
 
 
-        public Article(string title, string shortDiscription, string image, string content, long articleCategoryId)
+        public Article(string title, string shortDiscription, string image, string content, int articleCategoryId)
         {
             Title = title;
             ShortDiscription = shortDiscription;

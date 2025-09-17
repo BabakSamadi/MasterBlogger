@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace Presention.Areas.Administrator.Pages
+namespace Presention.Areas.Administrator.Pages.ArticleCategory
 {
     public class EditModel : PageModel
     {
@@ -16,7 +16,7 @@ namespace Presention.Areas.Administrator.Pages
         {
             _articleCategoryApplication=articleCategoryApplication;
         }
-        public void OnGet(long id)
+        public void OnGet(int id)
         {
             ArticleCategory = _articleCategoryApplication.Get(id);
         }

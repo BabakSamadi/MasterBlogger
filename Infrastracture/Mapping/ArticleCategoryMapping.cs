@@ -20,7 +20,7 @@ namespace Infrastracture.Mapping
             builder.Property(x => x.CreationDate);
             builder.Property(x => x.IsDeleted);
 
-            builder.HasMany(x=>x.Articles).WithOne(x=>x.articleCategory).HasForeignKey(x=>x.ArticleCategoryId)
+            builder.HasMany(x => x.Articles).WithOne(x => x.articleCategory).HasForeignKey(x => x.ArticleCategoryId);
         }
     }
 }

@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E474BAD-D330-43F0-870B-1739294EC23D}|Infrastracture\\Infrastracture.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\infrastracture\\mapping\\articlecategorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E474BAD-D330-43F0-870B-1739294EC23D}|Infrastracture\\Infrastracture.csproj|solutionrelative:infrastracture\\mapping\\articlecategorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E474BAD-D330-43F0-870B-1739294EC23D}|Infrastracture\\Infrastracture.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\infrastracture\\mapping\\articlemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E474BAD-D330-43F0-870B-1739294EC23D}|Infrastracture\\Infrastracture.csproj|solutionrelative:infrastracture\\mapping\\articlemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E474BAD-D330-43F0-870B-1739294EC23D}|Infrastracture\\Infrastracture.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\infrastracture\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E474BAD-D330-43F0-870B-1739294EC23D}|Infrastracture\\Infrastracture.csproj|solutionrelative:infrastracture\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,24 +11,16 @@
       "RelativeMoniker": "D:0:0:{F9E9853E-F2BE-49E4-809D-F27EDD88F085}|Domain\\Domain.csproj|solutionrelative:domain\\articlecategoryagg\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9E9853E-F2BE-49E4-809D-F27EDD88F085}|Domain\\Domain.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\domain\\articleagg\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E9853E-F2BE-49E4-809D-F27EDD88F085}|Domain\\Domain.csproj|solutionrelative:domain\\articleagg\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33C9CE2F-9CFF-4D43-8062-69E15603CE30}|Application.Contracts\\Application.Contracts.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\application.contracts\\article\\iarticleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33C9CE2F-9CFF-4D43-8062-69E15603CE30}|Application.Contracts\\Application.Contracts.csproj|solutionrelative:application.contracts\\article\\iarticleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E929BE3B-8E64-4268-92B1-BAD5996C206F}|Application\\Application.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E929BE3B-8E64-4268-92B1-BAD5996C206F}|Application\\Application.csproj|solutionrelative:application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\presention\\areas\\administrator\\pages\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|solutionrelative:presention\\areas\\administrator\\pages\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{778CFCB7-26ED-4867-B2F1-86EE20955705}|infrastracture Services.Config\\infrastracture Services.Config.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\infrastracture services.config\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778CFCB7-26ED-4867-B2F1-86EE20955705}|infrastracture Services.Config\\infrastracture Services.Config.csproj|solutionrelative:infrastracture services.config\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\presention\\areas\\administrator\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|solutionrelative:presention\\areas\\administrator\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|c:\\users\\babks\\desktop\\masterblogger\\masterblogger\\presention\\areas\\administrator\\pages\\article\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2841412-5555-4EE2-95D6-C146AB8D717D}|Presention\\Presention.csproj|solutionrelative:presention\\areas\\administrator\\pages\\article\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,118 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArticleCategoryMapping.cs",
-              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Infrastracture\\Mapping\\ArticleCategoryMapping.cs",
-              "RelativeDocumentMoniker": "Infrastracture\\Mapping\\ArticleCategoryMapping.cs",
-              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Infrastracture\\Mapping\\ArticleCategoryMapping.cs",
-              "RelativeToolTip": "Infrastracture\\Mapping\\ArticleCategoryMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T15:27:57.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ArticleCategory.cs",
-              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
-              "RelativeDocumentMoniker": "Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
-              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
-              "RelativeToolTip": "Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T15:25:56.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArticleMapping.cs",
-              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Infrastracture\\Mapping\\ArticleMapping.cs",
-              "RelativeDocumentMoniker": "Infrastracture\\Mapping\\ArticleMapping.cs",
-              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Infrastracture\\Mapping\\ArticleMapping.cs",
-              "RelativeToolTip": "Infrastracture\\Mapping\\ArticleMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T15:19:56.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ArticleRepository.cs",
               "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Infrastracture\\Repository\\ArticleRepository.cs",
               "RelativeDocumentMoniker": "Infrastracture\\Repository\\ArticleRepository.cs",
               "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Infrastracture\\Repository\\ArticleRepository.cs",
               "RelativeToolTip": "Infrastracture\\Repository\\ArticleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB0AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T15:17:38.516Z",
+              "WhenOpened": "2025-09-17T19:24:58.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IArticleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ArticleAgg\\IArticleRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\ArticleAgg\\IArticleRepository.cs",
-              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ArticleAgg\\IArticleRepository.cs",
-              "RelativeToolTip": "Domain\\ArticleAgg\\IArticleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ArticleCategory.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "RelativeDocumentMoniker": "Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "RelativeToolTip": "Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T15:15:43.26Z",
+              "WhenOpened": "2025-09-17T19:23:36.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ArticleApplication.cs",
-              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Application\\ArticleApplication.cs",
-              "RelativeDocumentMoniker": "Application\\ArticleApplication.cs",
-              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Application\\ArticleApplication.cs",
-              "RelativeToolTip": "Application\\ArticleApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Bootstrapper.cs",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\infrastracture Services.Config\\Bootstrapper.cs",
+              "RelativeDocumentMoniker": "infrastracture Services.Config\\Bootstrapper.cs",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\infrastracture Services.Config\\Bootstrapper.cs",
+              "RelativeToolTip": "infrastracture Services.Config\\Bootstrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T15:03:38.735Z",
+              "WhenOpened": "2025-09-17T19:21:06.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IArticleApplication.cs",
-              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Application.Contracts\\Article\\IArticleApplication.cs",
-              "RelativeDocumentMoniker": "Application.Contracts\\Article\\IArticleApplication.cs",
-              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Application.Contracts\\Article\\IArticleApplication.cs",
-              "RelativeToolTip": "Application.Contracts\\Article\\IArticleApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T15:03:01.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Presention\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Presention\\Areas\\Administrator\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T14:49:55.318Z",
+              "WhenOpened": "2025-09-17T19:15:20.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\List.cshtml",
-              "RelativeDocumentMoniker": "Presention\\Areas\\Administrator\\Pages\\List.cshtml",
-              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\List.cshtml",
-              "RelativeToolTip": "Presention\\Areas\\Administrator\\Pages\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA+AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\Article\\List.cshtml",
+              "RelativeDocumentMoniker": "Presention\\Areas\\Administrator\\Pages\\Article\\List.cshtml",
+              "ToolTip": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\Presention\\Areas\\Administrator\\Pages\\Article\\List.cshtml",
+              "RelativeToolTip": "Presention\\Areas\\Administrator\\Pages\\Article\\List.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAC0AAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-17T14:41:05.242Z",
+              "WhenOpened": "2025-09-17T19:11:27.456Z",
               "EditorCaption": ""
             }
           ]

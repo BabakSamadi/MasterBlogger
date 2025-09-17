@@ -2,7 +2,7 @@ using Application.Contracts.ArticleCategory;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Presention.Areas.Administrator.Pages
+namespace Presention.Areas.Administrator.Pages.ArticleCategory
 {
     public class ListModel : PageModel
     {
@@ -20,13 +20,13 @@ namespace Presention.Areas.Administrator.Pages
             ArticleCategories = _articleCategoryApplication.List();
         }
 
-        public RedirectToPageResult OnPostRemove(long id)
+        public RedirectToPageResult OnPostRemove(int id)
         {
             _articleCategoryApplication.Remove(id);
             return RedirectToPage("./List");
         }
 
-        public RedirectToPageResult OnPostActivate(long id)
+        public RedirectToPageResult OnPostActivate(int id)
         {
             _articleCategoryApplication.Activate(id);
             return RedirectToPage("./List");

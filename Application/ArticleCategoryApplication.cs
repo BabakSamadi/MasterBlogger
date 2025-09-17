@@ -51,7 +51,7 @@ namespace Application
            _ArticleCategoryRepository.save();
         }
 
-        public RenameArticleCategory Get(long id)
+        public RenameArticleCategory Get(int id)
         {
             var articleCategory = _ArticleCategoryRepository.Get(id);
             return new RenameArticleCategory()
@@ -61,14 +61,14 @@ namespace Application
             };
         }
 
-        public void Remove(long id)
+        public void Remove(int id)
         {
             var articlecategory = _ArticleCategoryRepository.Get(id);
             articlecategory.Remove();
             _ArticleCategoryRepository.save();
         }
 
-        public void Activate(long id)
+        public void Activate(int id)
         {
             var articleCategory = _ArticleCategoryRepository.Get(id);
             articleCategory.Active();

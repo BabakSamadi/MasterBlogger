@@ -2,7 +2,7 @@ using Application.Contracts.ArticleCategory;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Presention.Areas.Administrator.Pages
+namespace Presention.Areas.Administrator.Pages.ArticleCategory
 {
     public class CreateModel : PageModel
     {

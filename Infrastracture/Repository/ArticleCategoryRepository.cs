@@ -24,7 +24,7 @@ namespace Infrastracture.Repository
 
       
 
-        public ArticleCategory Get(long id)
+        public ArticleCategory Get(int id)
         {
             return _masterBlogContext.ArticleCategories.FirstOrDefault(x => x.Id == id);
         }

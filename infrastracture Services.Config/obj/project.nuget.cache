@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sdeFsZepZZ8=",
+  "dgSpecHash": "zbmMZJREBIM=",
   "success": true,
   "projectFilePath": "C:\\Users\\babks\\Desktop\\MasterBlogger\\MasterBlogger\\infrastracture Services.Config\\infrastracture Services.Config.csproj",
   "expectedPackageFiles": [
@@ -45,5 +45,12 @@
     "C:\\Users\\babks\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\babks\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

@@ -12,10 +12,10 @@ namespace Application.Contracts.ArticleCategory
         void Create(CreateArticleCategory command);
         void Rename(RenameArticleCategory command);
 
-        RenameArticleCategory Get(long id);
+        RenameArticleCategory Get(int id);
 
-        void Remove(long id);
+        void Remove(int id);
 
-        void Activate(long id);
+        void Activate(int id);
     }
 }

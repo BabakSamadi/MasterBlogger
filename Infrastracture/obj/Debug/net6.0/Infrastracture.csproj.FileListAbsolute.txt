@@ -16,3 +16,5 @@ C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\Infrastracture\obj\Debug\net6
 C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\Infrastracture\obj\Debug\net6.0\Infrastracture.pdb
 C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\Infrastracture\obj\Debug\net6.0\Infrastracture.genruntimeconfig.cache
 C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\Infrastracture\obj\Debug\net6.0\ref\Infrastracture.dll
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\Infrastracture\bin\Debug\net6.0\Application.Contracts.dll
+C:\Users\babks\Desktop\MasterBlogger\MasterBlogger\Infrastracture\bin\Debug\net6.0\Application.Contracts.pdb
