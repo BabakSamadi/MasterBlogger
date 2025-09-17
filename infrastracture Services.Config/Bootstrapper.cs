@@ -5,7 +5,7 @@ using System.Security.Authentication.ExtendedProtection;
 using System.Text;
 using System.Threading.Tasks;
 using Application;
-using Application.Contracts;
+using Application.Contracts.ArticleCategory;
 using Domain.ArticleCategoryAgg;
 using Domain.ServicesCheckValidation;
 using Infrastracture;

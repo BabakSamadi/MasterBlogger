@@ -1,4 +1,5 @@
-﻿using Domain.ServicesCheckValidation;
+﻿using Domain.ArticleAgg;
+using Domain.ServicesCheckValidation;
 
 namespace Domain.ArticleCategoryAgg
 {
@@ -12,6 +13,8 @@ namespace Domain.ArticleCategoryAgg
 
         public DateTime CreationDate { get; set; }
 
+        public ICollection<Article> Articles { get;  private set; }
+
         public ArticleCategory()
         {
             // EF Core برای ساختن موجودیت‌ها از دیتابیس اینو استفاده می‌کنه
@@ -24,6 +27,7 @@ namespace Domain.ArticleCategoryAgg
             Title = title;
             IsDeleted = true;
             CreationDate = DateTime.Now;
+            Articles = new List<Article>();
         }
 
 

@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-using Application.Contracts;
+using Application.Contracts.ArticleCategory;
 using Domain.ArticleCategoryAgg;
 using Domain.ServicesCheckValidation;
 using Infrastracture.Repository;

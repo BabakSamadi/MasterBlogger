@@ -44,16 +44,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/babks/Desktop/MasterBlogger/MasterBlogger/Presention/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/babks/Desktop/MasterBlogger/MasterBlogger/Presention/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/babks/Desktop/MasterBlogger/MasterBlogger/Presention/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[C:/Users/babks/Desktop/MasterBlogger/MasterBlogger/Presention/Pages/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/babks/Desktop/MasterBlogger/MasterBlogger/Presention/Pages/Shared/_ValidationScriptsPartial.cshtml]

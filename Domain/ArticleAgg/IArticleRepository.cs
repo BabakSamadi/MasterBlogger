@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Contracts
+namespace Domain.ArticleAgg
 {
-    public class CreateArticleCategory
+    public interface IArticleRepository
     {
-        public string Title { get; set; }
     }
 }

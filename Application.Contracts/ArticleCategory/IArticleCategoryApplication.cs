@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Contracts
+namespace Application.Contracts.ArticleCategory
 {
     public interface IArticleCategoryApplication
     {

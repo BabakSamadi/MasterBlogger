@@ -30,7 +30,17 @@
 	            <tr>
 		            <td>@articleCategory.Id</td>
 		            <td>@articleCategory.Title</td>
-		            <td>@(articleCategory.IsDeleted ? "Active" : "Inactive")</td>
+		            <td>
+			            @if (articleCategory.IsDeleted)
+			            {
+				            <i class="bi bi-check-circle-fill text-success fs-4"></i> <!-- فعال -->
+			            }
+			            else
+			            {
+				            <i class="bi bi-x-circle-fill text-danger fs-4"></i> <!-- غیر فعال -->
+			            }
+		            </td>
+		            @* <td>@(articleCategory.IsDeleted ? "فعال" : "غیر فعال")</td> *@
 		            <td>@articleCategory.CreationDate</td>
 		            <td>
 			            <a class="btn btn-warning" asp-page="./Edit" asp-route-id="@articleCategory.Id">Rename</a>

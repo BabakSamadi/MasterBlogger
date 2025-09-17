@@ -1,4 +1,4 @@
-using Application.Contracts;
+using Application.Contracts.ArticleCategory;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
