@@ -13,10 +13,11 @@ namespace Infrastracture.Mapping
     {
         public void Configure(EntityTypeBuilder<Article> builder)
         {
-            builder.ToTable("Article");
+            builder.ToTable("Articles");
             builder.HasKey(x => x.Id);
+            builder.Property(x => x.Id).ValueGeneratedOnAdd();
             builder.Property(x => x.Title);
-            builder.Property(x => x.ShortDiscription);
+            builder.Property(x => x.ShortDescription);
             builder.Property(x => x.Image);
             builder.Property(x => x.Content);
             builder.Property(x => x.CreationDate);

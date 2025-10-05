@@ -19,6 +19,12 @@ namespace Infrastracture.Repository
             _context = context;
         }
 
+        public void CreateAndSave(Article entity)
+        {
+            _context.Articles.Add(entity);
+            _context.SaveChanges();
+        }
+
         public List<ArticleViewModel> GetList()
         {
             return _context.Articles.Include(x => x.articleCategory).Select(x => new ArticleViewModel()

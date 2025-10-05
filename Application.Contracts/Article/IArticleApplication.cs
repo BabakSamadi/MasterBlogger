@@ -10,5 +10,7 @@ namespace Application.Contracts.Article
     {
 
         List<ArticleViewModel> GetList();
+
+        void Create(CreateArticle command);
     }
 }

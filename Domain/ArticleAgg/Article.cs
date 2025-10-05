@@ -13,7 +13,7 @@ namespace Domain.ArticleAgg
 
         public string Title { get; private set; }
 
-        public string ShortDiscription { get; private set; }
+        public string ShortDescription  { get; private set; }
 
         public string Image { get; private set; }
 
@@ -34,16 +34,25 @@ namespace Domain.ArticleAgg
         }
 
 
-        public Article(string title, string shortDiscription, string image, string content, int articleCategoryId)
+        public Article(string title, string shortDescription, string image, string content, int articleCategoryId)
         {
             Title = title;
-            ShortDiscription = shortDiscription;
+            ShortDescription = shortDescription;
             Image = image;
             Content = content;
             ArticleCategoryId = articleCategoryId;
             Isdeleted =false;
             CreationDate = DateTime.Now;
 
+         }
+
+        public void Edit(string title, string shortDiscription, string image, string content, int articleCategoryId)
+        {
+            Title = title;
+            ShortDescription = shortDiscription;
+            Image = image;
+            Content = content;
+            ArticleCategoryId = articleCategoryId; 
         }
     }
 }

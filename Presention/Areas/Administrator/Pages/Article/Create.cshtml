@@ -1,0 +1,68 @@
+﻿ @page
+@model Presention.Areas.Administrator.Pages.Article.CreateModel
+@{
+}
+
+
+<div class="card">
+	<div class="card-header">
+		<h2>Create New Article </h2>
+	</div>
+	<div class="card-body">
+		<div class="row">
+			<div class="col-md-12">
+				<form method="post">
+					<div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+					<div class="col-md-6 col-sm-12">
+						<div class="form-group">
+							<label for="Title" class="control-label"></label>
+							<input name="Title" class="form-control" />
+						
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-12">
+						<div class="form-group">
+							<label for="ShortDescription" class="control-label">ShortDisctiption: </label>
+							<textarea name="ShortDescription" id="ShortDescription" rows="5" class="form-control"></textarea>
+						
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-12">
+						<div class="form-group">
+							<label for="Image" class="control-label">Image: </label>
+							<input name="Image" id="Image" class="form-control" />
+						
+						</div>
+					</div>
+
+
+					<div class="col-md-6 col-sm-12">
+						<div class="form-group">
+							<label for="Content" class="control-label">Content: </label>
+						<textarea name="Content" id="Content" rows="5" class="form-control" ></textarea>
+
+						</div>
+					</div>
+					
+					
+					<div class="col-md-6 col-sm-12">
+						<div class="form-group">
+							<label for="Content" class="control-label">ArticleCategory: </label>
+							
+							<select asp-items="Model.ArticleCategories" name="ArticleCategoryId" id="ArticleCategoryId" class="form-control">
+								<option value="0"> select Article Category </option>
+							</select>
+
+						</div>
+					</div>
+
+					<div class="form-group mt-3">
+						<input type="submit" value="Create" class="btn btn-success" />
+						<a class="btn btn-dark" asp-page="./List" asp-area="Administrator">Back to list</a>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
