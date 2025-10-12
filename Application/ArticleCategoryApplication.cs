@@ -27,7 +27,7 @@ namespace Application
                 {
                    Id = ArticleCategory.Id,
                    Title = ArticleCategory.Title,
-                   IsDeleted = ArticleCategory.IsDeleted,
+                   IsDeleted = ArticleCategory.IsActive,
                    CreationDate = ArticleCategory.CreationDate,
                 });
 

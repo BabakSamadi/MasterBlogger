@@ -13,5 +13,8 @@ namespace Domain.ArticleAgg
         List<ArticleViewModel> GetList();
 
         void CreateAndSave(Article entity);
+        Article Get(int id);
+
+        void Save();
     }
 }

@@ -21,7 +21,7 @@ namespace Infrastracture.Mapping
             builder.Property(x => x.Image);
             builder.Property(x => x.Content);
             builder.Property(x => x.CreationDate);
-            builder.Property(x => x.Isdeleted);
+            builder.Property(x => x.IsActive);
 
             builder.HasOne(x => x.articleCategory).WithMany(x=>x.Articles).HasForeignKey(x=>x.ArticleCategoryId);
         }

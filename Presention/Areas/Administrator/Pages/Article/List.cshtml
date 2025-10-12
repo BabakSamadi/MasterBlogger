@@ -2,7 +2,7 @@
 @model Presention.Areas.Administrator.Pages.Article.ListModel
 @{
 }
-
+@* 
 <div class="card">
 	<div class="card-header">
 		<h3 class="float-left">Article List</h3>
@@ -31,7 +31,7 @@
 						<td>@articleCategory.Title</td>
 						<td>@articleCategory.ArticleCategory</td>
 						<td>
-							@if (articleCategory.IsDeleted)
+							@if (articleCategory.IsActive)
 							{
 								<i class="bi bi-check-circle-fill text-success fs-4"></i> <!-- فعال -->
 							}
@@ -40,13 +40,13 @@
 								<i class="bi bi-x-circle-fill text-danger fs-4"></i> <!-- غیر فعال -->
 							}
 						</td>
-						@* <td>@(articleCategory.IsDeleted ? "فعال" : "غیر فعال")</td> *@
+						
 						<td>@articleCategory.CreationDate</td>
 						<td>
 							<a class="btn btn-warning" asp-page="./Edit" asp-route-id="@articleCategory.Id">Edit</a>
 						</td>
 						<td>
-							@if (articleCategory.IsDeleted)
+							@if (articleCategory.IsActive)
 							{
 								<form method="post" asp-page-handler="Remove">
 									<button class="btn btn-danger">Remove</button>
@@ -68,3 +68,71 @@
 		</table>
 	</div>
 </div> 
+
+
+ *@
+ 
+
+								
+<div class="card">
+	<div class="card-header d-flex justify-content-between align-items-center">
+		<h3>Article List</h3>
+		<a class="btn btn-success" asp-page="./Create" asp-area="Administrator">Add New</a>
+	</div>
+
+	<div class="card-body">
+		<table class="table table-bordered table-striped text-center align-middle">
+			<thead class="table-dark">
+			<tr>
+				<th>Id</th>
+				<th>Title</th>
+				<th>Category</th>
+				<th>Status</th>
+				<th>Creation Date</th>
+				<th>Actions</th>
+			</tr>
+			</thead>
+			<tbody>
+			@foreach (var article in Model.Articles)
+			{
+				<tr>
+					<td>@article.Id</td>
+					<td>@article.Title</td>
+					<td>@article.ArticleCategory</td>
+					<td>
+						@if (article.IsActive)
+						{
+							<span class="text-success fw-bold">Active</span>
+						}
+						else
+						{
+							<span class="text-danger fw-bold">Inactive</span>
+						}
+					</td>
+					<td>@article.CreationDate</td>
+					<td>
+						<div class="d-flex justify-content-center gap-2">
+							<a class="btn btn-warning btn-sm" asp-page="./Edit" asp-route-id="@article.Id">Edit</a>
+
+							@if (article.IsActive)
+							{
+								<form method="post" asp-page-handler="Remove">
+									<input type="hidden" name="id" value="@article.Id" />
+									<button type="submit" class="btn btn-danger btn-sm">Deactivate</button>
+								</form>
+							}
+							else
+							{
+								<form method="post" asp-page-handler="Activate">
+									<input type="hidden" name="id" value="@article.Id" />
+									<button type="submit" class="btn btn-success btn-sm">Activate</button>
+								</form>
+							}
+						</div>
+					</td>
+				</tr>
+			}
+			</tbody>
+		</table>
+	</div>
+</div>

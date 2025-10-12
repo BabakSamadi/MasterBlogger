@@ -40,7 +40,7 @@
 				            <i class="bi bi-x-circle-fill text-danger fs-4"></i> <!-- غیر فعال -->
 			            }
 		            </td>
-		            @* <td>@(articleCategory.IsDeleted ? "فعال" : "غیر فعال")</td> *@
+		            @* <td>@(articleCategory.IsActive ? "فعال" : "غیر فعال")</td> *@
 		            <td>@articleCategory.CreationDate</td>
 		            <td>
 			            <a class="btn btn-warning" asp-page="./Edit" asp-route-id="@articleCategory.Id">Rename</a>

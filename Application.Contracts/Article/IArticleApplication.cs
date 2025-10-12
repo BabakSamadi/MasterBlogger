@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,7 +11,11 @@ namespace Application.Contracts.Article
     {
 
         List<ArticleViewModel> GetList();
-
         void Create(CreateArticle command);
+        void Edit(EditArticle command);
+        EditArticle Get(int id);
+
+        void Remove(int id);
+        void Activate(int id);
     }
 }

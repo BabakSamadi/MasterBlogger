@@ -9,7 +9,7 @@ namespace Domain.ArticleCategoryAgg
 
         public string Title { get; set; }
 
-        public  bool IsDeleted { get; set; }
+        public  bool IsActive { get; set; }
 
         public DateTime CreationDate { get; set; }
 
@@ -25,7 +25,7 @@ namespace Domain.ArticleCategoryAgg
             GuaredAgainstEmptyTitle(title);
             validatorServices.CheckThatThisRecordAlreadyExist(title);
             Title = title;
-            IsDeleted = true;
+            IsActive = true;
             CreationDate = DateTime.Now;
             Articles = new List<Article>();
         }
@@ -45,12 +45,12 @@ namespace Domain.ArticleCategoryAgg
 
         public void Remove()
         {
-            IsDeleted = false;
+            IsActive = false;
         }
 
         public void Active()
         {
-            IsDeleted = true;
+            IsActive = true;
         }
     }
 }

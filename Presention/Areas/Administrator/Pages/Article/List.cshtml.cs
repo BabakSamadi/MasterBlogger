@@ -1,4 +1,6 @@
+using Application;
 using Application.Contracts.Article;
+using Application.Contracts.ArticleCategory;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -19,5 +21,25 @@ namespace Presention.Areas.Administrator.Pages.Article
         {
             Articles = _articleApplication.GetList();
         }
+
+        public RedirectToPageResult OnPostRemove(int id)
+        {
+            _articleApplication.Remove(id);
+            return RedirectToPage("./List");
+        }
+
+        public RedirectToPageResult OnPostActivate(int id)
+        {
+            _articleApplication.Activate(id);
+            return RedirectToPage("./List");
+        }
+
     }
 }
+
+
+
+
+
+
+

@@ -19,7 +19,7 @@ namespace Domain.ArticleAgg
 
         public string Content { get; private set; }
 
-        public bool Isdeleted { get; private set; }
+        public bool IsActive { get; private set; }
 
         public DateTime CreationDate { get; private set; }
 
@@ -41,7 +41,7 @@ namespace Domain.ArticleAgg
             Image = image;
             Content = content;
             ArticleCategoryId = articleCategoryId;
-            Isdeleted =false;
+            IsActive =true;
             CreationDate = DateTime.Now;
 
          }
@@ -54,5 +54,16 @@ namespace Domain.ArticleAgg
             Content = content;
             ArticleCategoryId = articleCategoryId; 
         }
+
+        public void Activate()
+        {
+            IsActive = true;
+        }
+
+        public void Deactivate()
+        {
+            IsActive = false;
+        }
+
     }
 }

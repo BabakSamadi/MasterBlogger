@@ -12,7 +12,7 @@ namespace Application.Contracts.Article
         public String Title { get; set; }
 
         public string ArticleCategory { get; set; }
-        public bool IsDeleted { get; set; }
+        public bool IsActive { get; set; }
 
         public string CreationDate { get; set; }
      }
