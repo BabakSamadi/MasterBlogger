@@ -16,5 +16,7 @@ namespace Domain.ArticleAgg
         Article Get(int id);
 
         void Save();
+
+        bool Exists(string title); 
     }
 }

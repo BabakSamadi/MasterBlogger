@@ -8,6 +8,7 @@ using Application;
 using Application.Contracts.Article;
 using Application.Contracts.ArticleCategory;
 using Domain.ArticleAgg;
+using Domain.ArticleAgg.Services;
 using Domain.ArticleCategoryAgg;
 using Domain.ServicesCheckValidation;
 using Infrastracture;
@@ -28,6 +29,11 @@ namespace infrastracture_Services.Config
            services.AddTransient<IArticleCategoryRepository, ArticleCategoryRepository>();
            services.AddTransient<IArticleApplication, ArticleApplication>();
            services.AddTransient<IArticleRepository, ArticleRepository>();
+             
+
+           // validitor service
+
+            services.AddTransient<IAerticleValidtorService, AerticleValidtorService>();
             services.AddTransient<IArticleCategoryValidatorServices, ArticleCategoryValidatorServices>();
             services.AddDbContext<MasterBlogContext>(options => options.UseSqlServer(ConnectionString));
         }
